@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+}
+.signup{
+    width: 350px !important;
+    padding: 20px;
+    border: 1px solid rgba(1, 170, 248, 0.479);
+    border-radius: 10px
+}
+button{
+    font-size: 18px !important;
+}
